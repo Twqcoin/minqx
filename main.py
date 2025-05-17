@@ -30,7 +30,7 @@ EMOJI = {
 # روابط المنصات الاجتماعية
 SOCIAL_LINKS = {
     'facebook': 'https://www.facebook.com/khamisalrajab?mibextid=ZbWKwL',
-    'tiktok': 'https://www.tiktok.com/@missionx_offici?_t=ZS-8vgxNwgERtP&_r=1',
+    'tiktok': 'https://www.tiktok.com/@khamis_alrajab?_t=ZS-8wR56ZUugEx&_r=1',
     'youtube': 'https://youtube.com/@missionx_offici?si=4A549AkxABu523zi',
     'telegram': 'https://t.me/MissionX_offici',
     'instagram': 'https://www.instagram.com/missionx_offic?igsh=MWZlMHcyaGZleXlubw==',
